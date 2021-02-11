@@ -3,10 +3,6 @@ import './App.css';
 
 function App() {
 
-  function data() {
-    
-    return data;
-  }
   return (
     <div className="App">
       <header className="App-header">
